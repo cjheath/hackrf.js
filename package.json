@@ -67,6 +67,7 @@
 	},
 	"devDependencies": {
 		"@types/jest": "^29.5.14",
+		"@types/w3c-web-usb": "^1.0.10",
 		"coveralls": "^3.1.1",
 		"speaker": "^0.5.5",
 		"typescript": "^5.6.3"
